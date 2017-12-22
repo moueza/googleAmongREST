@@ -1,2 +1,2 @@
 # googleAmongREST
-googleAmongREST service
+googleAmongREST service in java EE (J2EE)
